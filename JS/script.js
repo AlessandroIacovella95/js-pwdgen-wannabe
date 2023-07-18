@@ -7,3 +7,6 @@ console.log (firstName);
 const surname = prompt('Inserisci il tuo cognome')
 console.log (surname);
 
+const color = prompt('Inserisci il tuo colore preferito')
+console.log (color);
+
