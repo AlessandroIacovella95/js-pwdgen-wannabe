@@ -10,3 +10,5 @@ console.log (surname);
 const color = prompt('Inserisci il tuo colore preferito')
 console.log (color);
 
+document.getElementById('your-password').innerHTML = pwd + firstName + surname + color + 21;
+
